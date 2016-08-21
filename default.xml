@@ -457,7 +457,7 @@
   <project path="system/extras" name="android_system_extras" remote="omnirom" revision="android-5.1" groups="pdk" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="android_system_media" groups="pdk" remote="omnirom" revision="android-5.1" />
-  <project path="system/netd" name="android_system_netd" groups="pdk" revision="android-5.1.1_r8" />
+  <project path="system/netd" name="platform/system/netd" groups="pdk" revision="refs/tags/android-5.1.1_r8" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="android_system_vold" remote="omnirom" revision="android-5.1" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
